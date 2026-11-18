@@ -1,0 +1,31 @@
+LICENSE
+  s_215eb7237e9321::t_bfd25046de801e 1-21
+README.md
+  s_215eb7237e9321::t_771dfe12891e16 1-19
+braintrust-cli/SKILL.md
+  s_6c04bf6ebd8e5c::t_ffa7b3fb588fd0 1-231
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "2a2c4ddc5dbde91fc1488b78e4b3891571242db4",
+  "prompts": {},
+  "sessions": {
+    "s_215eb7237e9321": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5f6290de-4f11-459c-b928-f068a26cda62",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Josh McDade <josh.ncsu@gmail.com>"
+    },
+    "s_6c04bf6ebd8e5c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d8ea63fa-7452-4ba1-b583-a0a311d25163",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Josh McDade <josh.ncsu@gmail.com>"
+    }
+  }
+}
